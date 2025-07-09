@@ -1,0 +1,56 @@
+# Imager Data Products: Capturing Earth's Surface and Atmosphere
+
+## Overview
+
+Imager payloads onboard geostationary satellites like INSAT-3D and INSAT-3DR are multi-spectral radiometers designed to observe the full Earth disc across various spectral bands. These include:
+
+- Visible (VIS)  
+- Shortwave Infrared (SWIR)  
+- Middle Infrared (MIR)  
+- Water Vapour (WV)  
+- Thermal Infrared (TIR)
+
+These payloads enable continuous, high-frequency observation of meteorological and environmental conditions over the Indian subcontinent and surrounding regions.
+
+---
+
+## Capabilities
+
+- **High Temporal Resolution:** Imagery available every 30 minutes (or better), enabling near real-time tracking of weather systems.  
+- **Multi-Spectral Sensing:** Detects features ranging from surface temperature and vegetation to cloud structures and water vapor content.  
+- **Geostationary Coverage:** Provides uninterrupted observations from a fixed location, critical for monitoring evolving weather patterns.
+
+---
+
+## Key Applications
+
+Imager-derived products support a wide range of operational and research activities:
+
+- **Weather Forecasting:** Cloud cover monitoring, convective storm tracking, cyclone identification, and wind vector estimation.  
+- **Disaster Management:** Early warning of severe weather events (e.g., thunderstorms, cyclones, heavy rainfall, fog, forest fires).  
+- **Ocean Monitoring:** Sea Surface Temperature (SST) estimation and oceanic heat content studies.  
+- **Environmental Monitoring:** Detection of aerosols, smoke, and pollution; land surface condition assessment (e.g., snow cover).  
+- **Climate Studies:** Long-term data series for understanding atmospheric energy balance and surface radiation dynamics.
+
+---
+
+## Data Products and Levels
+
+MOSDAC processes Imager data into various scientific products categorized by processing level:
+
+- **Level-1:** Radiometrically calibrated and georeferenced brightness temperatures and reflectances.  
+- **Level-2:** Derived geophysical parameters such as SST, Cloud Motion Vectors (CMV), Quantitative Precipitation Estimation (QPE), and Outgoing Longwave Radiation (OLR).  
+- **Level-3:** Gridded and temporally composited datasets for climate analysis (e.g., daily/monthly averages of SST or cloud properties).
+
+These products are available for download through the MOSDAC portal and are widely used by meteorological agencies, researchers, and global institutions.
+
+---
+
+## Significance
+
+Imager data products play a vital role in:
+
+- Tracking dynamic atmospheric systems in real time  
+- Enhancing accuracy of numerical weather models  
+- Supporting regional hydrology and agriculture applications  
+- Contributing to global Earth system science missions and datasets

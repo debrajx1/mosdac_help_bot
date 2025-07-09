@@ -1,0 +1,81 @@
+# MOSDAC Data Applications in Disaster Management
+
+The Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) supports India's disaster management framework by providing timely, satellite-based data essential for early warnings, real-time monitoring, and post-disaster assessments. These data products play a crucial role in safeguarding lives, minimizing damage, and enabling effective response and recovery operations.
+
+## Key Disaster Management Applications
+
+### 1. Tropical Cyclone Monitoring and Prediction
+
+- **Data Sources:**  
+  - Imager: Cloud imagery, Outgoing Longwave Radiation (OLR)  
+  - Scatterometer: Ocean surface wind vectors  
+  - Sounder: Vertical profiles of temperature and humidity
+
+- **Contribution:**  
+  Enables continuous monitoring of cyclone development, trajectory, and intensity. Scatterometer data is critical for detecting wind patterns over oceans, especially in the absence of in-situ measurements. These datasets feed into cyclone prediction models for timely warning dissemination to coastal communities.
+
+---
+
+### 2. Heavy Rainfall and Cloud Burst Alerts
+
+- **Data Sources:**  
+  - Imager: Quantitative Precipitation Estimation (QPE), Cloud-top imagery  
+  - Sounder: Humidity profiles, atmospheric stability indices (e.g., CAPE, Lifted Index)
+
+- **Contribution:**  
+  Helps identify atmospheric conditions favorable for extreme rainfall events and potential cloudbursts. The data supports flash flood modeling and urban flood alert systems.
+
+---
+
+### 3. Flood Monitoring and Impact Assessment
+
+- **Data Sources:**  
+  - Imager: Visible and Infrared imagery for water detection  
+  - QPE: Rainfall accumulation data
+
+- **Contribution:**  
+  Supports mapping of flood-inundated areas, enabling near-real-time monitoring of flood extent and aiding relief and rehabilitation planning.
+
+---
+
+### 4. Drought Monitoring
+
+- **Data Sources:**  
+  - Imager: NDVI (Normalized Difference Vegetation Index), Land Surface Temperature (LST), QPE for rainfall anomalies
+
+- **Contribution:**  
+  Facilitates the detection of agricultural drought by analyzing vegetation stress and rainfall deficits. Useful for drought early warning systems and crop planning.
+
+---
+
+### 5. Forest Fire Detection and Monitoring
+
+- **Data Sources:**  
+  - Imager: Middle Infrared and Thermal Infrared channels
+
+- **Contribution:**  
+  Detects active fire zones and thermal anomalies. Tracks wildfire spread and severity, enabling rapid response and damage estimation.
+
+---
+
+### 6. Fog and Low Cloud Warning
+
+- **Data Sources:**  
+  - Imager: Visible, SWIR, and TIR channels (especially useful during night-time)
+
+- **Contribution:**  
+  Identifies and maps fog-prone regions, supporting safe navigation for aviation, road, rail, and maritime transport systems.
+
+---
+
+### 7. Snowmelt Runoff Forecasting
+
+- **Data Sources:**  
+  - Imager: Snow cover mapping using visible and infrared channels
+
+- **Contribution:**  
+  Provides information on snow extent and depth, crucial for modeling snowmelt-induced river flows. Supports flood risk assessment in Himalayan and other snow-fed river basins.
+
+---
+
+MOSDAC’s satellite data infrastructure plays a strategic role in India's disaster resilience efforts. By providing high-temporal, high-resolution products, it empowers government agencies, emergency responders, and researchers to make informed decisions and take proactive measures during natural calamities.

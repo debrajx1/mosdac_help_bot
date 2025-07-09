@@ -1,0 +1,51 @@
+# Key Imager Data Products: Sea Surface Temperature, Outgoing Longwave Radiation, and Quantitative Precipitation Estimation
+
+## 1. Sea Surface Temperature (SST)
+
+### Measurement
+Sea Surface Temperature (SST) represents the temperature of the ocean's uppermost layer, derived primarily from the thermal infrared channels of geostationary Imager payloads.
+
+### Significance
+SST is a critical parameter in both oceanographic and meteorological studies. It influences global weather patterns, marine biodiversity, and energy exchange between the ocean and atmosphere.
+
+### Applications
+- **Oceanography:** Monitor ocean currents, detect upwelling/downwelling zones, and analyze marine heatwaves.
+- **Meteorology:** Enhance weather prediction by improving air-sea interaction modeling and fog forecasting in coastal zones.
+- **Fisheries:** Identify Potential Fishing Zones (PFZ) where fish species tend to concentrate based on thermal preference.
+- **Climate Studies:** Track long-term SST changes associated with climate variability (e.g., El Niño, La Niña).
+
+### Resolution
+Typical spatial resolution is 4 km × 4 km from geostationary satellites.
+
+---
+
+## 2. Outgoing Longwave Radiation (OLR)
+
+### Measurement
+OLR quantifies the thermal infrared radiation emitted by the Earth's surface and atmosphere into space. It is computed using thermal infrared bands from the Imager.
+
+### Significance
+OLR is a key component of Earth's radiation budget. Lower OLR values usually correspond to thick, cold cloud tops and are indicative of deep convective activity.
+
+### Applications
+- **Climate Monitoring:** Evaluate regional and global energy balance and cloud feedback mechanisms.
+- **Weather Forecasting:** Detect areas of intense convection and monitor tropical storm development.
+- **Monsoon Studies:** Assess convective intensity and spatial distribution during monsoon seasons.
+
+---
+
+## 3. Quantitative Precipitation Estimation (QPE)
+
+### Measurement
+QPE estimates rainfall rates using satellite-based cloud-top temperature and water vapor information, particularly from thermal infrared and WV channels of the Imager.
+
+### Significance
+QPE fills observational gaps in rainfall monitoring, especially in remote areas with few or no rain gauges.
+
+### Applications
+- **Hydrology:** Provide rainfall input for hydrological modeling and flood forecasting.
+- **Disaster Management:** Enable flash flood alerts and drought assessment.
+- **Agriculture:** Support crop yield estimation and irrigation planning.
+
+### Resolution
+Available as gridded products (e.g., 4 km × 4 km) with temporal resolutions like hourly or 3-hourly.

@@ -1,0 +1,51 @@
+# Scatterometer Data Products: Ocean Surface Wind Vectors
+
+Scatterometers are active microwave radar instruments flown on Indian satellites like Oceansat-2 (OSCAT), SCATSAT-1, and Oceansat-3 (SCAT-3). These payloads emit microwave pulses toward the sea surface and measure the intensity of the backscattered signals. The roughness of the ocean surface, influenced by surface winds, alters the backscatter, enabling the retrieval of wind vectors. By observing the same area from multiple azimuth angles, both wind speed and direction are derived.
+
+MOSDAC processes scatterometer data into operational Level-2 and Level-3 data products that provide crucial information about near-surface winds over the global oceans.
+
+## Key Product: Ocean Surface Wind Vectors
+
+### Measurement
+Ocean surface wind vectors include:
+- **Speed:** Typically expressed in meters per second (m/s) or knots.
+- **Direction:** Measured in degrees from true North, referenced at a standard height of 10 meters above the ocean surface.
+
+### Significance
+Scatterometer-derived winds are fundamental for understanding air-sea interactions. They drive surface ocean currents, influence wave generation, and are essential for weather forecasting and ocean state modeling.
+
+### Temporal and Spatial Resolution
+- **Spatial resolution:** Common grid sizes are 12.5 km or 25 km.
+- **Temporal resolution:** Near-global coverage is achieved every 1–2 days due to polar-orbiting satellite paths.
+
+### Applications
+
+#### Numerical Weather Prediction (NWP)
+- Enhance short-range and medium-range weather forecasts by providing vital wind data over oceans, where in-situ measurements are sparse.
+
+#### Tropical Cyclone Monitoring
+- Aid in the detection, tracking, and intensity estimation of cyclones over oceans.
+- Help predict cyclone genesis, trajectory, and potential intensification.
+
+#### Monsoon Forecasting
+- Provide wind vector fields over the Arabian Sea and Bay of Bengal.
+- Contribute to predicting the onset, progression, and withdrawal of the Indian Monsoon.
+
+#### Ocean State Forecasting
+- Improve models for surface currents, wave prediction, and storm surges.
+- Essential for coastal planning, offshore operations, and port management.
+
+#### Maritime Navigation and Safety
+- Provide real-time wind conditions to optimize ship routing, reduce fuel consumption, and enhance maritime safety.
+
+#### Climate Studies
+- Contribute to long-term wind vector datasets used in global climate monitoring.
+- Support studies on ocean-atmosphere interactions and ENSO (El Niño-Southern Oscillation) behavior.
+
+#### Fisheries Applications
+- Indirectly support fisheries by helping detect wind-driven upwelling zones.
+- Upwelling areas promote nutrient mixing and phytoplankton growth, enhancing marine productivity.
+
+---
+
+Scatterometer data offers a unique and consistent global perspective on ocean surface wind dynamics. Its value lies in complementing limited in-situ observations and providing real-time and historical data crucial for weather forecasting, climate monitoring, and oceanographic research.

@@ -1,0 +1,81 @@
+# Ocean Colour Monitor (OCM) Data Products: Insights into Marine Ecosystems
+
+The Ocean Colour Monitor (OCM) payload, flown on satellites such as Oceansat-2 and EOS-06 (Oceansat-3), is a multi-spectral radiometer designed to monitor ocean color—an indicator of various biological, chemical, and physical processes in the ocean. The ocean’s color depends on the absorption and scattering of sunlight by water constituents like phytoplankton, suspended sediments, and dissolved organic matter. MOSDAC processes OCM data into scientifically valuable products that support marine ecosystem research, fisheries, and climate monitoring.
+
+## 1. Chlorophyll-a Concentration (Chl-a)
+
+### Measurement
+Chlorophyll-a is a primary photosynthetic pigment in phytoplankton. OCM estimates its concentration by analyzing specific absorption features in the visible light spectrum.
+
+### Significance
+Chl-a is a proxy for phytoplankton biomass and ocean primary productivity, the foundation of marine food chains and the global carbon cycle.
+
+### Applications
+- **Fisheries:** Identifying Potential Fishing Zones (PFZ) based on high phytoplankton concentration.
+- **Ocean Productivity:** Monitoring ecosystem health and productivity.
+- **Harmful Algal Blooms (HABs):** Early detection of toxic blooms affecting marine life and coastal communities.
+- **Climate Studies:** Assessing ocean’s role in carbon sequestration and detecting productivity shifts.
+
+---
+
+## 2. Total Suspended Matter (TSM) Concentration
+
+### Measurement
+TSM is derived from the scattering of light by suspended particles in the water column. It includes both organic and inorganic matter.
+
+### Significance
+High TSM levels reduce water clarity and are often linked to sediment transport, river discharge, and anthropogenic activity.
+
+### Applications
+- **Coastal Monitoring:** Detecting sediment plumes, turbidity trends, and dredging impacts.
+- **Water Quality:** Assessing pollution and sediment loading.
+- **River Influence:** Tracking freshwater inflow and its effects on marine ecosystems.
+
+---
+
+## 3. Coloured Dissolved Organic Matter (CDOM) Absorption
+
+### Measurement
+CDOM refers to light-absorbing dissolved organic molecules, particularly active in blue and UV wavelengths. Absorption coefficients are derived using OCM spectral data.
+
+### Significance
+CDOM influences underwater light availability, nutrient cycling, and indicates freshwater inputs or decaying organic material.
+
+### Applications
+- **Carbon Cycling:** Understanding dissolved organic carbon transport and transformation.
+- **Water Quality:** Tracing natural and anthropogenic organic contaminants.
+- **Algorithm Development:** Improving ocean color retrieval accuracy, especially in coastal waters.
+
+---
+
+## 4. Inherent Optical Properties (IOPs)
+
+### Measurement
+IOPs describe the absorption and scattering properties of water and its constituents, independent of ambient lighting. These include absorption and backscattering coefficients at specific wavelengths.
+
+### Significance
+IOPs offer detailed insight into the ocean’s optical behavior and can be used to model underwater light fields.
+
+### Applications
+- **Bio-optical Modeling:** Enhancing remote sensing algorithms.
+- **Primary Productivity Estimates:** Modeling how light influences phytoplankton growth.
+- **Ecosystem Research:** Characterizing water types and constituent dominance.
+
+---
+
+## 5. Instantaneous Photosynthetically Active Radiation (PAR)
+
+### Measurement
+PAR represents the portion of solar radiation (400–700 nm) available for photosynthesis. It is estimated using surface irradiance data derived from OCM and auxiliary inputs.
+
+### Significance
+PAR is a key driver of primary productivity and phytoplankton growth in the euphotic zone.
+
+### Applications
+- **Productivity Modeling:** Estimating net primary production (NPP) in oceanic waters.
+- **Ecosystem Studies:** Determining light availability and its seasonal variation.
+- **Climate Research:** Evaluating light–biological interactions across oceans.
+
+---
+
+OCM data products enable a synoptic, high-frequency understanding of ocean biogeochemistry and ecosystem dynamics. These satellite-derived insights complement in-situ observations and play a critical role in sustainable marine resource management and environmental policymaking.

@@ -1,0 +1,92 @@
+# MOSDAC File Formats and Recommended Tools
+
+## Overview
+
+MOSDAC distributes its satellite data products using standardized scientific data formats to ensure maximum compatibility across platforms and disciplines. Understanding these formats and how to work with them is crucial for effectively utilizing the data.
+
+## Primary Data Formats
+
+### HDF5 (Hierarchical Data Format 5)
+
+- **Description:**  
+  A versatile and self-describing data format designed for storing large and complex scientific datasets. Supports multi-dimensional arrays, metadata, and hierarchical organization within a single file.
+
+- **Suitability:**  
+  Ideal for geophysical variables like radiance, temperature, and satellite imagery.
+
+- **Recommended Tools:**  
+  Python (`h5py`, `netCDF4`), HDFView, Panoply, MATLAB, IDL
+
+---
+
+### NetCDF (Network Common Data Form)
+
+- **Description:**  
+  A platform-independent format commonly used in climate, oceanographic, and meteorological research for storing array-oriented scientific data.
+
+- **Suitability:**  
+  Excellent for structured time-series and spatial gridded datasets.
+
+- **Recommended Tools:**  
+  Python (`netCDF4`, `xarray`), R, MATLAB, Panoply, NCL, ncview
+
+---
+
+### GeoTIFF
+
+- **Description:**  
+  A georeferenced raster image format that embeds spatial metadata directly within the TIFF file.
+
+- **Suitability:**  
+  Used for land cover maps, satellite bands, and other image-based data products.
+
+- **Recommended Tools:**  
+  QGIS, ArcGIS, Python (`rasterio`, `GDAL`), ENVI
+
+---
+
+### GRIB (GRIdded Binary)
+
+- **Description:**  
+  A compact, binary format used for weather and atmospheric model outputs. Widely adopted by meteorological centers.
+
+- **Suitability:**  
+  Ideal for storing gridded forecast data and large model datasets.
+
+- **Recommended Tools:**  
+  Python (`cfgrib`, `pygrib`), wgrib2, NCL
+
+---
+
+### ASCII / CSV (Comma-Separated Values)
+
+- **Description:**  
+  Simple text-based formats that represent tabular or time-series data. CSV uses commas to separate values.
+
+- **Suitability:**  
+  Best for smaller data tables, in-situ observations, or quick inspection of datasets.
+
+- **Recommended Tools:**  
+  Python (`pandas`), Excel, Google Sheets, any text editor
+
+---
+
+## General Software for Visualization and Analysis
+
+- **Panoply:**  
+  A free cross-platform viewer for geo-referenced NetCDF, HDF, and GRIB datasets.
+
+- **QGIS:**  
+  A powerful open-source GIS platform supporting GeoTIFFs and raster/vector overlays.
+
+- **Python Libraries:**  
+  `NumPy`, `Matplotlib`, `Xarray`, `Pandas`, `NetCDF4`, `H5py`, `GDAL`, `Rasterio` for end-to-end scientific computation.
+
+- **MATLAB / IDL:**  
+  Commercial tools widely used in academia and remote sensing research for advanced visualization and data processing.
+
+---
+
+## Conclusion
+
+By adopting widely accepted data formats and providing tools for their use, MOSDAC ensures that its satellite data products are accessible to a broad community of researchers, educators, and analysts worldwide.

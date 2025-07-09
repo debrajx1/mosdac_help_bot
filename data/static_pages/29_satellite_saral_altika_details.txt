@@ -1,0 +1,67 @@
+# SARAL-AltiKa: A Joint Indo-French Ocean Altimetry Mission
+
+## Mission Overview
+
+SARAL (Satellite with ARgos and ALtiKa) is a collaborative oceanographic satellite mission between the Indian Space Research Organisation (ISRO) and the French Space Agency (CNES). Its primary goal is to perform satellite altimetry—precise measurements of sea surface height—using the advanced Ka-band AltiKa altimeter. These measurements are crucial for monitoring global sea level rise, ocean circulation, and mesoscale phenomena. The mission also carries an Argos payload for global data collection. Processed data from SARAL is archived and disseminated through MOSDAC.
+
+---
+
+## Launch and Orbital Characteristics
+
+- **Launch Date:** February 25, 2013  
+- **Launch Vehicle:** PSLV-C20  
+- **Launch Site:** Satish Dhawan Space Centre (SDSC SHAR), Sriharikota, India  
+- **Orbit Type:** Sun-Synchronous Polar Orbit (SSPO), ~800 km altitude  
+- **Repeat Cycle:** 35 days  
+- **Mission Life:** Designed for 5 years of operation
+
+---
+
+## Payloads
+
+### 1. AltiKa (Ka-Band Altimeter)
+
+- **Function:**  
+  Emits microwave pulses and measures the return time to calculate sea surface height with high accuracy.
+
+- **Operating Frequency:**  
+  Ka-band (35.75 GHz)
+
+- **Advantages over Ku-band Altimeters:**
+  - Higher vertical resolution
+  - Reduced ionospheric and atmospheric signal delays
+  - Enhanced measurement precision in open ocean
+
+- **Applications:**
+  - **Sea Surface Height Monitoring:** Tracking global and regional sea level trends
+  - **Ocean Circulation:** Mapping eddies, gyres, and boundary currents
+  - **Wave and Wind Observations:** Estimating significant wave height and surface wind speed
+  - **Polar and Ice Monitoring:** Observing ice sheet elevation and sea ice thickness
+  - **Inland Water Studies:** Measuring water level changes in lakes, reservoirs, and large rivers
+
+### 2. Argos Data Collection System (DCS)
+
+- **Function:**  
+  Receives and relays data from ground-based and oceanic platforms such as:
+  - Ocean buoys
+  - Argo floats
+  - Animal tracking beacons
+  - Meteorological stations
+
+- **Applications:**
+  - Supporting environmental research and biodiversity studies
+  - Providing ground-truth for satellite-based climate and ocean observations
+  - Enabling near real-time in-situ data acquisition for oceanographic and meteorological use
+
+---
+
+## Contributions
+
+SARAL-AltiKa has significantly advanced global ocean and climate monitoring through:
+
+- **Precision Altimetry:** Providing detailed and accurate measurements of sea surface height
+- **Climate Monitoring:** Supporting the detection of sea level rise and contributing to long-term climate datasets
+- **Operational Forecasting:** Feeding ocean state models used for marine navigation and coastal planning
+- **International Collaboration:** Complementing other satellite missions like Jason, Sentinel-6, and contributing to the global altimetry constellation
+- **In-Situ Integration:** Enhancing satellite observations with on-the-ground data via the Argos system
+

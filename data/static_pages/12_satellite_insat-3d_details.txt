@@ -1,0 +1,94 @@
+# INSAT-3D: India's Advanced Geostationary Meteorological Satellite
+
+## Mission Overview
+
+INSAT-3D is an advanced meteorological satellite launched by ISRO to enhance India’s capability in weather monitoring, forecasting, and disaster management. As part of the Indian National Satellite (INSAT) series, it provides continuous observations over the Indian subcontinent and adjacent oceanic regions.
+
+The mission is aimed at real-time data acquisition from land and ocean surfaces, atmospheric sounding, and transmission of meteorological data from remote ground-based sensors.
+
+---
+
+## Launch and Orbital Characteristics
+
+- **Launch Date:** July 26, 2013  
+- **Launch Vehicle:** Ariane 5 ECA (launched by Arianespace)  
+- **Launch Site:** Kourou, French Guiana  
+- **Orbit Type:** Geostationary Orbit (GSO) at 82°E longitude  
+- **Mission Life:** Minimum 7 years  
+- **Launch Mass:** ~2061 kg  
+
+> Due to its high mass, the satellite was launched aboard Ariane 5 as ISRO’s GSLV Mk-II was not yet capable of delivering this payload to GSO.
+
+---
+
+## Primary Payloads
+
+INSAT-3D carries four key payloads supporting meteorological, data relay, and rescue operations:
+
+### 1. Multi-spectral Imager
+
+- **Function:** Captures Earth imagery across six spectral channels for cloud, land, and ocean monitoring  
+- **Spectral Bands:**
+  - Visible (VIS): 0.52 – 0.72 µm  
+  - Shortwave Infrared (SWIR): 1.55 – 1.70 µm  
+  - Middle Infrared (MIR): 3.80 – 4.00 µm  
+  - Water Vapour (WV): 6.50 – 7.00 µm  
+  - Thermal Infrared-1 (TIR-1): 10.2 – 11.2 µm  
+  - Thermal Infrared-2 (TIR-2): 11.5 – 12.5 µm  
+
+- **Spatial Resolution:**  
+  - 1 km for VIS & SWIR  
+  - 4 km for MIR, TIR-1, TIR-2  
+  - 8 km for WV  
+
+- **Features:** Real-time image correction for scan mirror errors and motion compensation  
+- **Applications:**
+  - Cloud Motion Vectors (CMV)  
+  - Outgoing Longwave Radiation (OLR)  
+  - Sea Surface Temperature (SST)  
+  - Quantitative Precipitation Estimation (QPE)  
+  - Fire detection and aerosol monitoring  
+
+---
+
+### 2. Atmospheric Sounder
+
+- **Function:** Provides vertical profiles of temperature and humidity using 19 channels (18 IR, 1 VIS)  
+- **Spatial Resolution:** ~10 km  
+- **Applications:**
+  - Temperature and humidity profiling  
+  - Total Precipitable Water (TPW)  
+  - Atmospheric stability indices (e.g., Lifted Index)  
+  - Numerical Weather Prediction (NWP) inputs  
+
+---
+
+### 3. Data Relay Transponder (DRT)
+
+- **Function:** Collects data from ground-based instruments such as:
+  - Automatic Weather Stations (AWS)  
+  - Automatic Rain Gauges (ARG)  
+  - Buoys and Data Collection Platforms (DCPs)
+
+- **Application:** Integrates in-situ data with satellite observations for real-time forecasting  
+
+---
+
+### 4. Satellite Aided Search & Rescue (SAS&R) Transponder
+
+- **Function:** Part of COSPAS-SARSAT international distress alert system  
+- **Application:** Detects emergency beacon signals and forwards them to ground stations for rescue coordination
+
+---
+
+## Mission Objectives and Contributions
+
+INSAT-3D has significantly strengthened India’s meteorological and disaster warning infrastructure. Its contributions include:
+
+- Enhanced accuracy in short- and medium-range weather forecasts  
+- Improved cyclone detection, tracking, and warning  
+- Better insights into atmospheric dynamics and ocean-atmosphere interaction  
+- Support to climate research and long-term weather pattern analysis  
+- Real-time monitoring for disaster preparedness and response
+
+INSAT-3D marked a major leap in India’s capability for space-based meteorological observation and laid the foundation for future enhancements like INSAT-3DR.

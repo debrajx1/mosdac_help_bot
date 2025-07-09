@@ -1,0 +1,73 @@
+# MOSDAC Data Applications in Climate Monitoring and Research
+
+The Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) provides a rich archive of long-term, satellite-based observations essential for climate monitoring and research. These consistent and high-quality datasets are critical for understanding the Earth’s changing climate, tracking variability, and studying the long-term effects of global warming on the atmosphere, oceans, and biosphere.
+
+## Key Climate Monitoring and Research Applications
+
+### 1. Monitoring Earth’s Energy Budget
+- **Data Sources:**  
+  - Imager: Outgoing Longwave Radiation (OLR)  
+  - Derived solar radiation products
+
+- **Contribution:**  
+  OLR measurements quantify the thermal radiation emitted from the Earth system to space. Variations in OLR directly reflect changes in cloud cover, greenhouse gas concentrations, and surface temperatures, providing critical insights into Earth’s radiative balance.
+
+---
+
+### 2. Tracking Sea Surface Temperature (SST) Trends
+- **Data Sources:**  
+  - Imager: SST products (e.g., Level-2 and Level-3 gridded datasets)
+
+- **Contribution:**  
+  SST trends are key indicators of ocean warming, one of the strongest signs of climate change. MOSDAC’s satellite-derived SST time series supports research on El Niño-Southern Oscillation (ENSO), Indian Ocean Dipole (IOD), marine heatwaves, and climate-related ocean variability.
+
+---
+
+### 3. Analyzing Atmospheric Composition (Aerosols and Water Vapor)
+- **Data Sources:**  
+  - Imager: Aerosol Optical Depth (AOD)  
+  - Sounder: Total Precipitable Water (TPW), Humidity Profiles
+
+- **Contribution:**  
+  AOD helps study the spatial and temporal variability of aerosols, which affect climate through radiative forcing. TPW and humidity data support understanding of moisture availability and trends in the hydrological cycle, particularly under a warming climate.
+
+---
+
+### 4. Assessing Cryosphere Changes (Snow and Ice Cover)
+- **Data Sources:**  
+  - Imager: Snow cover extent and frequency
+
+- **Contribution:**  
+  Snow cover maps derived from satellite imagery offer critical insights into seasonal and long-term changes in cryospheric regions. These changes impact regional water availability and are used to monitor climate change impacts in Himalayan and polar environments.
+
+---
+
+### 5. Ocean Productivity and Carbon Cycle
+- **Data Sources:**  
+  - Ocean Colour Monitor (OCM): Chlorophyll-a, CDOM, Total Suspended Matter (TSM), Inherent Optical Properties (IOPs)
+
+- **Contribution:**  
+  Long-term ocean color data allows researchers to assess primary productivity trends and the ocean’s capacity to sequester atmospheric CO₂. Monitoring phytoplankton blooms and biogeochemical indicators helps track ecological shifts in marine environments.
+
+---
+
+### 6. Ocean Circulation and Sea Level Change
+- **Data Sources:**  
+  - Scatterometer: Ocean surface wind vectors  
+  - Complementary data: Altimetry (used with wind data)
+
+- **Contribution:**  
+  Scatterometer wind fields are vital for driving ocean circulation models, helping study wind-driven currents and upwelling processes. When combined with altimetric sea surface height measurements, they help monitor changes in ocean dynamics and regional sea level variations.
+
+---
+
+### 7. Climate Model Validation
+- **Data Sources:**  
+  - Multi-mission datasets across Imager, Sounder, OCM, and Scatterometer platforms
+
+- **Contribution:**  
+  MOSDAC’s datasets are valuable for validating climate models and reanalysis products. The long-term satellite records help refine model simulations of past climate behavior and improve predictions for future scenarios.
+
+---
+
+MOSDAC’s mission-critical data serves as a cornerstone for climate science in India and globally. By making these resources accessible, it supports the scientific community in generating actionable insights for climate mitigation, adaptation strategies, and international policy-making frameworks.

@@ -1,0 +1,20 @@
+# 🌐 Web Crawling
+requests
+beautifulsoup4
+urllib3
+
+# 📄 File Parsing
+python-docx
+PyMuPDF             # For PDF parsing (fitz)
+pandas
+openpyxl            # For .xlsx file reading
+
+# 🧠 Embedding + Semantic Search
+sentence-transformers
+faiss-cpu
+
+# 💬 Chatbot UI
+streamlit
+
+# Optional (for performance/logging/debugging, if needed)
+tqdm                # Progress bars

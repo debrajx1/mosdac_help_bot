@@ -1,0 +1,70 @@
+# MOSDAC Services: Training, Capacity Building, and Outreach
+
+While MOSDAC’s core function is satellite data archiving and dissemination, ISRO’s Space Applications Centre (SAC) and other ISRO centers actively support training, capacity building, and outreach initiatives. These programs aim to empower users with knowledge and tools to effectively utilize Earth observation data in various domains.
+
+## 1. Capacity Building Programs
+
+- **Overview:**  
+  ISRO and SAC organize training workshops, short courses, and capacity development programs for professionals, students, and researchers.
+
+- **Key Features:**
+  - Focus on practical usage of geospatial and satellite data.
+  - Emphasis on meteorology, oceanography, agriculture, hydrology, and disaster management.
+  - Hands-on sessions on tools, visualization platforms, and MOSDAC datasets.
+
+- **Target Audience:**  
+  - Government officials, academic faculty, researchers, postgraduate students, and professionals in technical fields.
+
+- **Training Duration:**  
+  - Ranges from short-term workshops (a few days to a week) to extended diploma-level programs.
+
+---
+
+## 2. SMART Program  
+**Satellite data-based Meteorology And oceanography Research and Training**
+
+- **Overview:**  
+  The SMART program is a focused research and training initiative from ISRO that promotes academic and student engagement in meteorology and oceanography using satellite datasets.
+
+- **Program Support Includes:**
+  - Access to satellite datasets hosted on MOSDAC.
+  - Research guidance and mentoring by ISRO scientists.
+  - Exposure to advanced data tools and analysis techniques.
+  - Opportunities for collaborative research aligned with national priorities.
+
+- **Managed By:**  
+  MOSDAC Research and Training Division (MRTD), Space Applications Centre (SAC).
+
+---
+
+## 3. Academic and Research Support
+
+- **Overview:**  
+  ISRO, through MOSDAC, collaborates with Indian universities and research institutions to advance geospatial research and applications.
+
+- **Key Support Areas:**
+  - Access to satellite data for student dissertations, theses, and faculty-led research.
+  - Technical guidance on data interpretation and application.
+  - Joint research programs and collaborative studies in atmospheric and ocean sciences.
+
+- **Objective:**  
+  To integrate space-based observations into academic curricula and support development of skilled remote sensing professionals.
+
+---
+
+## 4. Outreach Activities
+
+- **Overview:**  
+  ISRO and MOSDAC carry out public engagement to promote awareness of space applications and make satellite data more accessible.
+
+- **Key Outreach Efforts:**
+  - Publicly available atlases, posters, and visual reports.
+  - Participation in national science exhibitions and space awareness programs.
+  - Development of user-friendly tools like the [MOSDAC LIVE portal](https://live.mosdac.gov.in) for real-time weather data visualization.
+
+- **Goal:**  
+  To make satellite data understandable and usable for the general public, students, and educators, thereby showcasing the societal benefits of ISRO missions.
+
+---
+
+These programs and outreach initiatives ensure that MOSDAC’s vast datasets are effectively leveraged for national development, scientific advancement, and public awareness. They contribute to building a community that is technically equipped to address environmental and climate challenges using space-based technologies.

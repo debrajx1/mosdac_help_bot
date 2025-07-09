@@ -1,0 +1,87 @@
+# Key Imager Data Products: Clouds, Aerosols, and Atmospheric Phenomena
+
+## 1. Cloud Motion Vectors (CMV)
+
+### Measurement
+Cloud Motion Vectors (CMVs) estimate wind speed and direction at various atmospheric levels. Derived by tracking the movement of cloud features in sequential satellite images from the Imager, they represent winds at different altitudes (low, mid, and high levels).
+
+### Significance
+CMVs are especially valuable over oceans and other data-sparse regions, offering vital wind data where ground-based observations are unavailable.
+
+### Applications
+- **Numerical Weather Prediction (NWP):** Improve initial conditions for forecasting models.
+- **Tropical Cyclone Tracking:** Aid in predicting cyclone path and intensity.
+- **Atmospheric Dynamics:** Study wind shear, jet streams, and large-scale circulation.
+
+---
+
+## 2. Water Vapour Wind (WVW)
+
+### Measurement
+WVWs are derived by tracking water vapor features using the Imager's water vapor channels. These winds can be estimated even in cloud-free conditions.
+
+### Significance
+Crucial for capturing upper-tropospheric wind patterns and filling gaps in conventional wind observations.
+
+### Applications
+- Enhance weather prediction in regions with limited visibility.
+- Support climate and atmospheric circulation studies.
+
+---
+
+## 3. Aerosol Optical Depth (AOD)
+
+### Measurement
+AOD quantifies the degree to which aerosols prevent sunlight from reaching the Earth's surface. It is derived from visible and near-infrared channels.
+
+### Significance
+AOD reflects the presence of dust, smoke, pollution, and sea salt particles—factors critical for understanding radiation balance and air quality.
+
+### Applications
+- **Air Quality Monitoring:** Track smoke plumes, haze, and dust storms.
+- **Atmospheric Correction:** Correct land and ocean satellite measurements.
+- **Climate Studies:** Assess aerosol radiative forcing and distribution.
+
+---
+
+## 4. Snow Cover
+
+### Measurement
+Snow and ice coverage are detected using visible and SWIR channels, based on differences in reflectance between snow, vegetation, and water.
+
+### Significance
+Snow cover impacts surface albedo, hydrological cycles, and climate feedback mechanisms.
+
+### Applications
+- **Hydrology:** Forecast snowmelt and water availability.
+- **Climate Monitoring:** Track long-term snow and glacier changes.
+- **Disaster Risk:** Assess flood risks from snowmelt.
+
+---
+
+## 5. Fog Detection
+
+### Measurement
+Using a combination of thermal infrared, visible, and SWIR bands, fog is identified based on temperature and reflectance contrasts—especially at night.
+
+### Significance
+Fog significantly affects transportation safety and logistics.
+
+### Applications
+- **Aviation and Transport:** Provide early warnings for low-visibility conditions.
+- **Road Safety:** Improve planning and operations in fog-prone regions.
+
+---
+
+## 6. Fire Detection and Monitoring
+
+### Measurement
+Active fires are detected using thermal anomalies observed in MIR and TIR channels. Fire Radiative Power (FRP) may also be estimated.
+
+### Significance
+Early detection of forest fires enables timely response and impact assessment.
+
+### Applications
+- **Disaster Management:** Monitor wildfire spread and damage.
+- **Environmental Monitoring:** Track smoke and aerosol emissions.
+- **Climate Studies:** Quantify fire-related emissions and feedback.

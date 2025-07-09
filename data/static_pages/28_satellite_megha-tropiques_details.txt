@@ -1,0 +1,63 @@
+# Megha-Tropiques: A Joint Indo-French Mission for Tropical Water Cycle Studies
+
+## Mission Overview
+
+Megha-Tropiques was a collaborative satellite mission between the Indian Space Research Organisation (ISRO) and the French Space Agency (CNES). It was specifically designed to study the atmospheric water cycle and the tropical energy budget. Its low-inclination orbit enabled frequent observations over the tropical belt (30°N to 30°S), making it highly effective for monitoring monsoons, tropical cyclones, and other convective weather systems. The mission's data was archived and disseminated through MOSDAC.
+
+---
+
+## Launch and Orbital Characteristics
+
+- **Launch Date:** October 12, 2011  
+- **Launch Vehicle:** PSLV-C18 (Polar Satellite Launch Vehicle)  
+- **Launch Site:** Satish Dhawan Space Centre (SDSC), Sriharikota, India  
+- **Orbit Type:** Low Earth Orbit (LEO), inclined at 20° to the equator  
+- **Orbit Nature:** Non-sun-synchronous orbit with excellent revisit frequency over tropical regions  
+- **Mission Life:** Designed for 5 years of operations
+
+---
+
+## Payloads
+
+### 1. MADRAS (Microwave Analysis and Detection of Rain and Atmospheric Structures)
+
+- **Function:** Passive microwave imager for measuring:
+  - Rainfall over land and ocean
+  - Cloud liquid water and water vapor
+- **Frequency Bands:** Multiple microwave frequencies (e.g., 18.7 GHz to 157 GHz)
+- **Applications:**
+  - Monsoon studies and seasonal rainfall monitoring
+  - Flood forecasting and tropical cyclone analysis
+  - Improving precipitation retrieval algorithms
+
+### 2. SAPHIR (Sounder for Probing Vertical Profiles of Humidity in the Troposphere)
+
+- **Function:** Humidity sounder designed to measure vertical humidity profiles in the troposphere
+- **Frequency:** Six channels centered around 183 GHz water vapor absorption band
+- **Applications:**
+  - Understanding convective cloud formation and moist atmospheric processes
+  - Enhancing numerical weather prediction through improved moisture data
+  - Input to global initiatives such as the Global Precipitation Measurement (GPM)
+
+### 3. SCARAB (Scanner for Radiation Budget)
+
+- **Function:** Radiometer for measuring:
+  - Shortwave (solar) and longwave (thermal) radiation fluxes at the top of the atmosphere
+- **Applications:**
+  - Assessing the Earth's radiation balance
+  - Studying cloud radiative effects and feedbacks in the tropics
+  - Supporting climate model validation
+
+---
+
+## Contributions
+
+Megha-Tropiques provided unprecedented insights into the tropical atmospheric water and energy cycles, contributing significantly to:
+
+- Detailed understanding of tropical rainfall distribution and intensity
+- Analysis of atmospheric water vapor and its role in weather systems
+- Monitoring of monsoon evolution and tropical cyclone development
+- Improving climate and weather prediction models for the tropics
+
+The data, especially from SAPHIR, was used in near real-time by international programs like the **GPM constellation**. MOSDAC played a central role in archiving and disseminating Megha-Tropiques data for both Indian and global users.
+

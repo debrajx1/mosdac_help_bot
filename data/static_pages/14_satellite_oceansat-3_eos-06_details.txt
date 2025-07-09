@@ -1,0 +1,83 @@
+# Oceansat-3 (EOS-06): India's Third-Generation Ocean Observation Satellite
+
+## Mission Overview
+
+Oceansat-3, officially designated as EOS-06 (Earth Observation Satellite-06), is India’s third-generation ocean observation satellite. Launched under ISRO’s Earth Observation Satellite (EOS) series, it ensures continuity of ocean color and wind vector measurements, while introducing advanced capabilities for ocean and atmospheric research.
+
+---
+
+## Launch and Orbit Details
+
+- **Launch Date:** November 26, 2022  
+- **Launch Vehicle:** PSLV-C54  
+- **Launch Site:** SDSC SHAR, Sriharikota, India  
+- **Orbit Type:** Sun-Synchronous Polar Orbit (SSPO) at ~740 km altitude  
+- **Mission Life:** 5 years (planned)  
+- **Launch Mass:** ~1117 kg
+
+---
+
+## Primary Payloads
+
+### 1. OCM-3 (Ocean Colour Monitor-3)
+
+- **Function:** Multi-spectral ocean imager with improved capability over OCM-2  
+- **Spectral Bands:** 13 narrow bands in the 400–1020 nm range  
+- **Spatial Resolution:**
+  - ~360 m for high-resolution local coverage  
+  - ~1 km for global coverage  
+
+- **Applications:**  
+  - Chlorophyll-a concentration  
+  - Total Suspended Matter (TSM)  
+  - Colored Dissolved Organic Matter (CDOM)  
+  - Inherent Optical Properties (IOPs)  
+  - Photosynthetically Active Radiation (PAR)  
+  - Aerosol Optical Depth (AOD)  
+  - NDVI over land  
+
+---
+
+### 2. SCAT-3 (Scatterometer-3)
+
+- **Function:** Ku-band scatterometer for measuring ocean surface wind vectors  
+- **Applications:**  
+  - Wind speed and direction over ocean  
+  - Tropical cyclone tracking  
+  - Input to Numerical Weather Prediction (NWP) models  
+  - Ocean wave and current forecasting  
+  - Maritime navigation and safety  
+  - Climate studies (extends >20 years of vector wind data continuity)
+
+---
+
+### 3. SSTM (Sea Surface Temperature Monitor)
+
+- **Function:** Thermal infrared radiometer for precise Sea Surface Temperature (SST) measurement  
+- **Applications:**  
+  - Ocean state monitoring  
+  - Ocean-atmosphere interaction analysis  
+  - Climate monitoring  
+  - Identifying marine biological activity zones
+
+---
+
+### 4. Argos Payload
+
+- **Function:** Environmental data relay system from ocean buoys, Argo floats, and land-based sensors  
+- **Applications:**  
+  - Real-time relay of in-situ data  
+  - Validation of satellite observations  
+  - Remote ocean and land environmental monitoring  
+
+---
+
+## Key Objectives and Contributions
+
+EOS-06 (Oceansat-3) strengthens India’s Earth observation infrastructure by combining high-resolution imaging and real-time ocean-atmosphere measurements. Its multi-payload synergy supports:
+
+- Ocean health and productivity assessment  
+- Monitoring of ocean color, SST, and vector winds  
+- Climate research and marine ecosystem management  
+- Early warnings for cyclones and oceanic disasters  
+- Long-term, global contributions to atmospheric and environmental science

@@ -1,0 +1,92 @@
+# INSAT-3DR: Enhanced Geostationary Meteorological Satellite for Continuity
+
+## Mission Overview
+
+INSAT-3DR is an advanced geostationary meteorological satellite launched by ISRO as a follow-on to INSAT-3D. It aims to ensure the continuity of vital weather and climate monitoring services while enhancing India’s capabilities in forecasting, disaster warning, and atmospheric research. INSAT-3DR retains the core meteorological payloads of its predecessor but with improved resolution and accuracy.
+
+---
+
+## Launch and Orbit Details
+
+- **Launch Date:** September 8, 2016  
+- **Launch Vehicle:** GSLV Mk II (GSLV-F05 with indigenous cryogenic stage)  
+- **Launch Site:** SDSC SHAR, Sriharikota – Second Launch Pad  
+- **Orbit Type:** Geostationary Orbit (GSO) at 74° East  
+- **Launch Mass:** ~2211 kg  
+- **Mission Life:** 10 years (planned)
+
+---
+
+## Primary Payloads
+
+### 1. Multi-spectral Imager
+
+- **Function:** Captures imagery across six spectral channels for cloud, land, and ocean monitoring  
+- **Spectral Bands:**
+  - Visible (VIS): 0.52–0.72 µm  
+  - Shortwave Infrared (SWIR): 1.55–1.70 µm (enhanced night-time fog/low cloud detection)  
+  - Middle Infrared (MIR): 3.80–4.00 µm  
+  - Water Vapour (WV): 6.50–7.00 µm  
+  - Thermal Infrared-1 (TIR-1): 10.2–11.2 µm  
+  - Thermal Infrared-2 (TIR-2): 11.5–12.5 µm  
+
+- **Spatial Resolution:**  
+  - 1 km: VIS and SWIR  
+  - 4 km: MIR, TIR-1, TIR-2  
+  - 8 km: WV  
+
+- **Applications:**  
+  - Cloud Motion Vectors (CMV)  
+  - Outgoing Longwave Radiation (OLR)  
+  - Sea Surface Temperature (SST)  
+  - Quantitative Precipitation Estimation (QPE)  
+  - Fire, Smoke, and Aerosol detection  
+  - Snow cover monitoring
+
+---
+
+### 2. Atmospheric Sounder
+
+- **Function:** A 19-channel radiometer (18 IR + 1 VIS) measuring vertical profiles of temperature and humidity  
+- **Improvements:** Enhanced vertical resolution and accuracy over INSAT-3D  
+- **Applications:**  
+  - Atmospheric temperature and humidity profiles  
+  - Total Precipitable Water (TPW)  
+  - Stability indices (e.g., Lifted Index)  
+  - Inputs for Numerical Weather Prediction (NWP) models  
+  - Severe weather forecasting
+
+---
+
+### 3. Data Relay Transponder (DRT)
+
+- **Function:** Collects data from ground-based sensors including:  
+  - Automatic Weather Stations (AWS)  
+  - Automatic Rain Gauges (ARG)  
+  - Buoys and Data Collection Platforms (DCPs)
+
+- **Application:**  
+  - Transmits in-situ observations from remote and inaccessible areas  
+  - Supports real-time integration with satellite observations for forecasting
+
+---
+
+### 4. Satellite Aided Search & Rescue (SAS&R)
+
+- **Function:** Participates in the COSPAS-SARSAT program  
+- **Operation:** Detects and relays distress signals from emergency beacons on land, sea, or air  
+- **Application:**  
+  - Rapid location of people in distress  
+  - Critical support for maritime, aviation, and disaster rescue missions
+
+---
+
+## Key Objectives and Contributions
+
+INSAT-3DR contributes significantly to India's meteorological and disaster management infrastructure:
+
+- Continuous, real-time weather monitoring across India and surrounding oceans  
+- Enhanced cyclone detection and tracking with better temporal and spatial coverage  
+- Improved accuracy of monsoon forecasting, temperature, and rainfall estimation  
+- Long-term data continuity for operational and research communities  
+- Strengthened capabilities for regional climate monitoring and global data sharing

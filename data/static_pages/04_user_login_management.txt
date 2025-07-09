@@ -1,0 +1,72 @@
+# MOSDAC Account Login and Password Management
+
+## Overview
+
+Effective management of your MOSDAC user account is essential for uninterrupted access to satellite data and services. This guide explains the login process, resolving common issues, recovering forgotten passwords, and updating your password securely.
+
+## Login Procedure
+
+1. **Go to the Login Page**  
+   Open the [MOSDAC portal](https://mosdac.gov.in) and click on the **"Login"** button, usually located at the top right.
+
+2. **Enter Your Credentials**  
+   - Use your registered **username** (usually your email address).  
+   - Enter your **password**.
+
+3. **Submit Login**  
+   Click the **"Sign In"** or **"Login"** button. If your credentials are correct, you’ll be redirected to your dashboard or data access area.
+
+## Troubleshooting Login Issues
+
+### Invalid Username or Password
+
+- If the system displays "Invalid username or password," ensure there are no typos.
+- Accounts may be **temporarily locked** for security after multiple failed login attempts (e.g., 3 tries).  
+- **Solution:** Wait at least **one hour** and then try logging in again.
+
+### Common Mistakes to Avoid
+
+- Make sure **Caps Lock** is off.
+- Confirm you’re using the correct email and password.
+- Try manually typing your email instead of autofill.
+
+## Forgot Password (Password Recovery)
+
+If you can’t remember your password:
+
+1. **Click “Forgot Password”**  
+   Found on the login screen.
+
+2. **Enter Your Email or Username**  
+   The system will send a reset link if the account exists.
+
+3. **Open Reset Email**  
+   - Locate the reset email in your inbox.
+   - **Copy the entire hyperlink** and **paste it into a new browser tab**.
+   - Do not click directly from some email clients, as it may not work properly.
+
+4. **Reset Your Password**  
+   You’ll be redirected to a page where you can set a **new password**.
+
+## Change Password (After Login)
+
+If you’re logged in and want to change your password:
+
+1. **Access Your Profile**  
+   - Go to **"My Account"** or **"Profile"** from the dashboard or menu.
+
+2. **Go to the Password Section**  
+   - Look for an option like **"Change Password"**.
+
+3. **Enter Passwords**  
+   - Input your **current password**.  
+   - Enter your **new password** and **confirm it** by typing it again.
+
+4. **Save Changes**  
+   Click **"Update"** or **"Save"**. Your new password will be applied immediately.
+
+## Best Practices
+
+- Use strong, unique passwords with a mix of letters, numbers, and special characters.
+- Update your password periodically.
+- Keep your registered email up to date for smooth recovery.

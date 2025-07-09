@@ -1,0 +1,59 @@
+# Sounder Data Products: Vertical Atmospheric Profiles
+
+Sounder payloads onboard geostationary satellites like INSAT-3D and INSAT-3DR are multi-channel radiometers that observe Earth’s atmosphere in infrared and visible spectral bands. These instruments provide high-resolution vertical profiles of atmospheric temperature and humidity. The data processed by MOSDAC from sounders enables 3D atmospheric analysis—essential for accurate weather forecasting and climate modeling.
+
+## 1. Atmospheric Temperature Profiles
+
+### Measurement
+Derived from radiation observed in carbon dioxide absorption bands, these profiles represent the vertical distribution of temperature across different layers of the atmosphere, from the surface to the stratosphere.
+
+### Significance
+Temperature profiles are foundational to numerical weather prediction models. They help determine atmospheric stability and the likelihood of convective phenomena like thunderstorms.
+
+### Applications
+- **Weather Forecasting:** Detecting temperature inversions, frontal zones, and vertical stability.
+- **Climate Research:** Analyzing temperature trends across altitudes and supporting global circulation studies.
+
+---
+
+## 2. Atmospheric Humidity Profiles
+
+### Measurement
+Vertical distribution of water vapor is retrieved using radiance data from water vapor-sensitive infrared channels.
+
+### Significance
+Moisture profiles are essential for predicting precipitation, cloud formation, and understanding latent heat exchanges in the atmosphere.
+
+### Applications
+- **Precipitation Forecasting:** Identifying moist or dry layers that influence rainfall.
+- **Cloud Physics:** Understanding cloud formation and dissipation processes.
+- **Severe Weather:** Assessing convective potential and flash flood risk.
+
+---
+
+## 3. Total Precipitable Water (TPW)
+
+### Measurement
+TPW represents the total integrated water vapor in a vertical atmospheric column, derived by summing humidity values through all layers.
+
+### Significance
+It is a key indicator of the amount of moisture available for precipitation, especially for heavy rainfall events.
+
+### Applications
+- **Rainfall Estimation:** Predicting regions prone to intense rainfall.
+- **Monsoon Tracking:** Monitoring moisture surges during monsoon periods.
+- **Moisture Transport:** Identifying atmospheric rivers and water vapor corridors.
+
+---
+
+## 4. Layer Precipitable Water
+
+### Measurement
+Measures the amount of water vapor within specified pressure layers (e.g., 1000–900 hPa, 900–700 hPa, 700–300 hPa), providing depth-resolved moisture information.
+
+### Significance
+Layer-wise profiling helps in evaluating moisture concentration at different atmospheric levels, aiding better understanding of convective triggers.
+
+### Applications
+- **Short-Term Forecasting:** Capturing shallow or deep moist layers for nowcasting.
+- **Severe Weather:** Detecting unstable or capped layers critical for storm development.

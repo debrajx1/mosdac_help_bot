@@ -1,0 +1,51 @@
+# User Registration on MOSDAC Portal
+
+## Overview
+
+User registration on the MOSDAC portal is a simple and essential step to access a wide range of satellite data products and advanced services. Registration is free of charge and is mandatory for downloading most detailed datasets and using personalized features.
+
+## Step-by-Step Registration Guide
+
+### 1. Access the Registration Page
+Visit the official MOSDAC portal at [mosdac.gov.in](https://mosdac.gov.in). Look for a clearly labeled link such as **"Register"**, **"Sign Up"**, or **"New User Registration"** on the homepage or in the top menu.
+
+### 2. Fill in Personal Details
+You will be asked to enter:
+- Your full name (First and Last)
+- A valid email address (used for contact and login)
+- A secure password that meets the portal's password policy (e.g., minimum length, uppercase/lowercase, digits, special characters)
+
+### 3. Provide Organizational Information
+Include details about your affiliation:
+- Designation (e.g., Student, Scientist, Engineer)
+- Institution or organization name
+- Address of your institution
+
+### 4. Specify Intended Use
+Indicate why you are registering (e.g., academic research, weather modeling, education). This helps MOSDAC tailor services and understand user demand.
+
+### 5. Review Terms and Policies
+Before submitting the form, read and agree to:
+- **Terms and Conditions**
+- **Data Access Policy**
+- **Website Usage Guidelines**
+You will need to check a box to confirm your agreement.
+
+### 6. Submit the Registration Form
+Ensure all required fields are complete. Then click the **"Submit"** or **"Register"** button.
+
+### 7. Verify Your Email Address
+After submitting the form:
+- You’ll receive an email with a **verification link**
+- **Important:** Copy the entire URL from the email and paste it into a new browser tab or window for better reliability
+- This step confirms your email address
+
+### 8. Await Account Approval
+Your registration will be reviewed by the MOSDAC admin team. Once approved, you will receive an activation confirmation via email.
+
+## After Activation
+
+You can now log in using your email and password to:
+- Access restricted datasets
+- Use data ordering services
+- Get higher download bandwidth and other personalized features

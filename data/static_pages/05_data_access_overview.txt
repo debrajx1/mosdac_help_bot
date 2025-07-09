@@ -1,0 +1,71 @@
+# MOSDAC Data Access Mechanisms
+
+## Overview
+
+MOSDAC provides a wide range of data access options to serve the needs of different user groups—from researchers requiring bulk downloads to casual users needing quick visual insights. These methods ensure both flexibility and scalability in how users interact with meteorological and oceanographic satellite data.
+
+## Primary Data Access Methods
+
+### 1. Web Portal (HTTP/HTTPS Download)
+
+- **Description:**  
+  A user-friendly method for browsing, previewing, and downloading individual data products directly via a web browser.
+
+- **Process:**  
+  Navigate to the MOSDAC portal, explore the data catalog, choose desired satellite missions or products, and download files directly from the product pages.
+
+- **Best Suited For:**  
+  Users who need small-to-medium datasets, one-time downloads, or exploratory data access via interactive browsing.
+
+### 2. SFTP (Secure File Transfer Protocol)
+
+- **Description:**  
+  A secure, reliable mechanism for downloading large datasets or automating data access through scripted workflows.
+
+- **Process:**  
+  - Login using an SFTP client (e.g., FileZilla, WinSCP, or terminal-based `sftp`)  
+  - Use your registered MOSDAC credentials  
+  - Connect to the server (e.g., `sftp://ftp.mosdac.gov.in`)  
+  - Browse and download bulk files or directories
+
+- **Best Suited For:**  
+  Researchers, developers, and institutions needing large-scale data access or integration with automated processing pipelines.
+
+### 3. MOSDAC-LIVE Portal
+
+- **Description:**  
+  An interactive, web-based data visualization tool that offers access to near real-time satellite imagery, weather overlays, and model-based forecasts.
+
+- **Process:**  
+  Access the LIVE portal through the MOSDAC website and interact with maps, time animations, and overlays without downloading data files.
+
+- **Best Suited For:**  
+  Operational monitoring, quick assessments, real-time event tracking, or educational demonstrations.
+
+### 4. Standing Orders
+
+- **Description:**  
+  Allows users to configure automatic delivery of selected data products on a regular basis without manual intervention.
+
+- **Process:**  
+  - Set product preferences (satellite, product type, time range)  
+  - Data is either delivered via SFTP or made available for automated retrieval  
+  - Typically expires after a fixed duration (e.g., 1 month), after which it must be renewed
+
+- **Best Suited For:**  
+  Organizations or individuals who require consistent, timely access to specific datasets (e.g., weather bureaus, research centers).
+
+### 5. Anonymous/Guest Access
+
+- **Description:**  
+  Provides limited access to selected open-access datasets or visualization tools without registration.
+
+- **Process:**  
+  Visit the MOSDAC portal and access guest-viewable sections (e.g., satellite snapshots, weather maps).
+
+- **Best Suited For:**  
+  General public, students, or first-time users who want to explore MOSDAC offerings before registering.
+
+## Summary
+
+These data access mechanisms are designed to ensure that MOSDAC's satellite products are accessible and usable across all user segments—whether for academic, operational, or public awareness purposes.

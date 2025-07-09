@@ -1,0 +1,65 @@
+# Kalpana-1: India's First Dedicated Meteorological Satellite
+
+## Mission Overview
+
+Kalpana-1, originally launched as **MetSat-1**, was India’s first dedicated meteorological satellite, marking a key milestone in ISRO’s space-based weather observation capabilities. It was later renamed Kalpana-1 on February 5, 2003, in honor of Dr. Kalpana Chawla, the Indian-American astronaut who lost her life in the Columbia Space Shuttle tragedy.
+
+Unlike the earlier multi-purpose INSAT series, Kalpana-1 was solely intended for meteorology, enabling continuous weather monitoring for the Indian region and its surroundings.
+
+---
+
+## Launch and Orbital Details
+
+- **Launch Date:** September 12, 2002  
+- **Launch Vehicle:** PSLV-C4 (Polar Satellite Launch Vehicle)  
+- **Launch Site:** Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota  
+- **Orbit Type:** Geostationary Orbit (GSO)  
+- **Orbital Position:** 74° East longitude  
+- **Mission Life:** Designed for 7 years, but exceeded its lifespan significantly  
+- **Current Status:** Decommissioned; replaced by advanced satellites like INSAT-3D/3DR
+
+> Note: This mission marked the first time a PSLV placed a satellite into Geostationary Transfer Orbit (GTO).
+
+---
+
+## Primary Payload: Very High Resolution Radiometer (VHRR)
+
+Kalpana-1 carried a single meteorological payload—the VHRR, which provided multi-spectral imagery critical for weather forecasting.
+
+### Spectral Bands
+
+- **Visible (VIS):** 0.55 – 0.75 µm  
+  - Daytime cloud cover, land features, snow detection  
+- **Thermal Infrared (TIR):** 10.5 – 12.5 µm  
+  - Cloud-top and sea surface temperatures; day-night monitoring  
+- **Water Vapour (WV):** 5.7 – 7.1 µm  
+  - Mid- and upper-tropospheric moisture distribution
+
+### Spatial Resolution
+
+- **VIS Band:** ~2 km  
+- **TIR and WV Bands:** ~8 km (at sub-satellite point)
+
+### Scan Modes
+
+- Full Earth disk scans  
+- Sector scans (user-defined)  
+- Frequent coverage of Indian subcontinent and adjoining oceans
+
+---
+
+## Mission Objectives and Contributions
+
+Kalpana-1 was deployed with the following goals:
+
+- Provide uninterrupted meteorological observations over India and adjacent ocean regions
+- Support short- and medium-range weather prediction
+- Improve early detection and monitoring of cyclones
+- Enable atmospheric and sea surface parameter analysis for climate studies
+- Relay data from remote **Automatic Weather Stations (AWS)** and **Data Collection Platforms (DCPs)**
+
+---
+
+## Legacy
+
+Kalpana-1 significantly strengthened India’s meteorological infrastructure and disaster response capabilities. It contributed immensely to monsoon forecasting, storm tracking, and environmental monitoring. The mission’s success laid the groundwork for future dedicated meteorological satellites, such as **INSAT-3D** and **INSAT-3DR**, which further enhanced temporal resolution and payload capabilities.

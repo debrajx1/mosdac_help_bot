@@ -1,0 +1,55 @@
+# MOSDAC Data Policy, Usage Guidelines, and Citation
+
+## Overview
+
+The Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) operates under the data access and usage policies set by the Government of India, Department of Space (DOS), and the Indian Space Research Organisation (ISRO). These policies ensure responsible use, proper attribution, and fair access to satellite data while safeguarding national and operational interests.
+
+---
+
+## General Data Access and Usage Guidelines
+
+1. **User Registration:**
+   - Access to most operational and high-resolution satellite data requires user registration on the MOSDAC portal.
+   - Registration helps track data usage and supports compliance monitoring.
+   - Some datasets—such as quick-look imagery or preview products—are available without login.
+
+2. **Primary Use for Research and Education:**
+   - Data is intended primarily for **non-commercial** applications such as:
+     - Academic research
+     - Teaching and training
+     - Public sector and governmental use
+   - Redistribution or resale of raw data is **not permitted** unless explicitly authorized.
+
+3. **Value-Added Products (VAPs):**
+   - Users are encouraged to derive value-added products by integrating, processing, or analyzing MOSDAC data.
+   - These VAPs may be distributed or published more freely, provided proper attribution is given.
+   - Responsibility for the accuracy and validation of VAPs lies with the user.
+
+4. **"As-Is-Where-Is" Basis:**
+   - All data is provided without warranties or guarantees.
+   - Users must validate the applicability and accuracy of data for their specific needs.
+   - MOSDAC is not liable for errors or losses arising from the use of its datasets.
+
+5. **Disaster Management Exception:**
+   - Expedited access and broader sharing privileges are granted to authorized agencies involved in **disaster management**.
+   - Such access may be coordinated with the National Remote Sensing Centre (NRSC), SAC, or designated nodal agencies.
+
+6. **Commercial Use:**
+   - Commercial users seeking satellite data for business or industrial applications must:
+     - Obtain approval through formal agreements with ISRO/SAC.
+     - Abide by pricing, licensing, and redistribution terms specific to commercial use cases.
+
+---
+
+## Data Citation and Acknowledgement
+
+Proper acknowledgment of MOSDAC as the data provider is **mandatory** in all:
+
+- Research papers
+- Technical reports
+- Conference presentations
+- Websites or visualizations
+- Public data sharing platforms
+
+### Recommended General Citation
+

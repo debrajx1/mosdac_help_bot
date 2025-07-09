@@ -1,0 +1,80 @@
+# Oceansat-2: Advancing Indian Oceanographic Remote Sensing
+
+## Mission Overview
+
+Oceansat-2 was the second dedicated oceanographic satellite developed under ISRO’s Indian Remote Sensing (IRS) program. Designed to ensure continuity of services from its predecessor Oceansat-1 (IRS-P4), it incorporated enhanced capabilities for global ocean color monitoring, surface wind measurements, and atmospheric profiling.
+
+The mission played a crucial role in supporting oceanographic research, coastal zone studies, marine ecosystem monitoring, and improving weather and climate modeling.
+
+---
+
+## Launch and Orbital Characteristics
+
+- **Launch Date:** September 23, 2009  
+- **Launch Vehicle:** PSLV-C14 (Polar Satellite Launch Vehicle)  
+- **Launch Site:** Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota  
+- **Orbit Type:** Sun-Synchronous Polar Orbit (SSPO) at ~720 km altitude  
+- **Revisit Time:** Approximately 2 days  
+- **Mission Life:** Designed for 5 years  
+
+> The PSLV-C14 launch also carried multiple nano-satellites, demonstrating ISRO’s growing capability in multi-payload missions.
+
+---
+
+## Primary Payloads
+
+Oceansat-2 carried three key instruments for oceanographic and atmospheric observations:
+
+### 1. Ocean Colour Monitor-2 (OCM-2)
+
+- **Function:** An 8-band multispectral radiometer (400–885 nm) for measuring ocean color and atmospheric radiance  
+- **Spatial Resolution:** 360 meters  
+- **Swath Width:** ~1420 km  
+- **Tilt Capability:** +20° along-track to avoid sun glint and improve data quality  
+- **Applications:**
+  - Chlorophyll-a concentration
+  - Total Suspended Matter (TSM)
+  - Colored Dissolved Organic Matter (CDOM)
+  - Monitoring algal blooms and primary productivity
+  - Assessing coastal and open ocean water quality
+
+### 2. OSCAT (Ocean Scatterometer)
+
+- **Function:** A Ku-band (13.515 GHz) pencil-beam scatterometer for active microwave remote sensing  
+- **Purpose:** Measures backscatter from the ocean surface to derive wind speed and direction  
+- **Applications:**
+  - Global ocean surface wind vectors  
+  - Weather forecasting and ocean state modeling  
+  - Cyclone tracking and intensification prediction
+
+### 3. ROSA (Radio Occultation Sounder of the Atmosphere)
+
+- **Function:** GPS occultation receiver (from Italian Space Agency - ASI)  
+- **Purpose:** Observes atmospheric refractivity to derive vertical profiles  
+- **Applications:**
+  - High-accuracy profiles of temperature, pressure, and water vapor  
+  - Ionospheric electron density estimation  
+  - Enhanced atmospheric and climate modeling
+
+---
+
+## Mission Objectives
+
+- Monitor ocean surface winds and vertical stratification  
+- Detect chlorophyll concentrations and phytoplankton dynamics  
+- Analyze atmospheric aerosols and suspended sediments in coastal zones  
+- Provide continuity to the operational services of Oceansat-1 with enhanced instrumentation  
+
+---
+
+## Key Contributions
+
+Oceansat-2 significantly advanced India’s capacity in space-based ocean and atmospheric monitoring. Its high-resolution data supported:
+
+- Ocean primary productivity mapping  
+- Detection of marine biological hotspots and potential fishing zones (PFZ)  
+- Ocean current analysis and sea surface wind modeling  
+- Improved weather and cyclone forecasting  
+- Research in marine biogeochemistry and air-sea interactions  
+
+Oceansat-2 data was widely adopted by national agencies, research institutions, and global scientific communities, reinforcing India’s role in operational oceanography.

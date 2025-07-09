@@ -1,0 +1,35 @@
+# MOSDAC Overview
+
+## What is MOSDAC?
+
+The Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is a specialized data centre established by the Indian Space Research Organisation (ISRO). It functions under the Space Applications Centre (SAC) located in Ahmedabad, India.
+
+## Mission and Purpose
+
+MOSDAC serves as India's national repository for satellite-derived meteorological and oceanographic data. Its core mission is to support the archiving, processing, and dissemination of high-value satellite data products.
+
+The centre caters to a wide user base, including:
+- Researchers and scientists
+- Operational weather and disaster management agencies
+- Academic and educational institutions
+- General public, both nationally and internationally
+
+## Applications and Impact
+
+The data and services provided by MOSDAC support a range of applications such as:
+- Weather forecasting and early warning systems
+- Climate monitoring and atmospheric studies
+- Ocean state estimation and coastal management
+- Disaster response and mitigation
+- Scientific research and environmental modeling
+
+## Access via Online Portal
+
+MOSDAC's services are accessible through its official web portal: [mosdac.gov.in](https://mosdac.gov.in)
+
+The portal is owned and managed by MOSDAC/SAC/ISRO and provides:
+- Real-time and archived satellite data
+- Data visualization and download tools
+- Product catalogs, documentation, and APIs
+
+The platform is designed to make satellite-based meteorological and oceanographic data easily accessible to users across the globe.

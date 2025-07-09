@@ -1,0 +1,50 @@
+# MOSDAC Services: RSS Feeds and Software Tools
+
+MOSDAC provides value-added services beyond satellite data downloads to enhance usability, automate data monitoring, and support technical analysis. These services include Real-Time Syndication (RSS) feeds for automated alerts and a suite of software tools to facilitate data processing and visualization.
+
+## 1. RSS Feeds (Really Simple Syndication)
+
+- **Overview:**  
+  MOSDAC’s RSS feed service enables users to receive automatic updates when new data products are published on the portal.
+
+- **Key Features:**
+  - **Automated Notifications:** Users are alerted immediately upon the release of new satellite datasets or updated products (e.g., latest images, SST maps, rainfall data).
+  - **Custom Subscriptions:** Feeds are categorized based on satellite missions and data types. Examples include:
+    - SCATSAT-1 Wind Products RSS
+    - INSAT-3D Imager RSS
+    - INSAT-3DR Sounder RSS
+  - **Accessibility:** Compatible with any standard RSS reader on web, desktop, or mobile platforms.
+
+- **Applications:**  
+  - Useful for meteorologists, disaster managers, and researchers who require timely awareness of data releases.
+  - Enables integration with automated workflows for real-time processing or decision-making.
+
+---
+
+## 2. Software Tools and Utilities
+
+- **Overview:**  
+  To help users work with complex satellite data formats (like HDF5 or NetCDF), MOSDAC—through ISRO/SAC—offers recommended tools, format converters, and visualization applications.
+
+- **Tool Categories:**
+  - **Data Format Converters:**  
+    - Convert satellite data from formats like HDF5 to simpler formats such as ASCII, CSV, or binary.  
+    - Helps integrate satellite data with user-developed scripts or third-party models.
+
+  - **Data Viewers and Visualizers:**  
+    - Tools like HDFView, Panoply, or IDV plugins allow users to explore geophysical parameters and satellite imagery.  
+    - Enables non-programmers to view and analyze data interactively.
+
+  - **Atmospheric Correction Models:**  
+    - Packages to correct radiometric measurements for atmospheric effects, improving accuracy for oceanographic and land studies.
+
+- **Availability:**
+  - Tools are generally available from the "Software" or "Tools" section of the [MOSDAC website](https://www.mosdac.gov.in), often accompanied by installation instructions and user manuals.
+
+- **Applications:**
+  - Facilitates research by easing the learning curve for working with remote sensing datasets.
+  - Supports academic, operational, and commercial users in generating maps, profiles, and data summaries efficiently.
+
+---
+
+MOSDAC’s RSS services and software tools reflect its user-centric design philosophy—ensuring that high-quality satellite data is not only available, but also accessible and actionable for a wide range of users.

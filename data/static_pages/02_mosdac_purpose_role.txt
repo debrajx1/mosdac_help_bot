@@ -1,0 +1,26 @@
+# Purpose of MOSDAC
+
+## Central Role
+
+The primary purpose of MOSDAC is to serve as a centralized hub for Indian satellite data related to the Earth's atmosphere and oceans. It bridges the gap between raw satellite observations and practical applications in research, weather forecasting, ocean monitoring, and climate science.
+
+## Core Functions
+
+1. **Data Archiving:**  
+   Securely preserves vast volumes of historical and real-time satellite data, ensuring its availability for long-term research and retrospective analysis.
+
+2. **Data Processing:**  
+   Transforms raw satellite signals into scientifically validated data products across different processing levels (Level-1 to Level-4), making the data suitable for diverse user needs.
+
+3. **Data Dissemination:**  
+   Provides efficient, user-friendly online platforms and APIs for users to search, explore, and download satellite-derived meteorological and oceanographic products.
+
+4. **User Support:**  
+   Offers technical assistance and guidance to help users access, interpret, and apply the data effectively. This includes documentation, contact-based support, and FAQs.
+
+5. **Capacity Building:**  
+   While not a dedicated training center, MOSDAC supports national capacity building through outreach programs, workshops, and collaboration with ISRO/SAC-led initiatives.
+
+## National Contribution
+
+MOSDAC plays a pivotal role in enabling the scientific and operational use of satellite data, supporting national goals in weather prediction, disaster management, oceanography, and climate modeling.

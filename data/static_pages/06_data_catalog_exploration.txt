@@ -1,0 +1,82 @@
+# MOSDAC Satellite Data Catalog
+
+## Overview
+
+The MOSDAC Satellite Data Catalog serves as the central resource for discovering, exploring, and understanding the wide range of satellite data products available from Indian meteorological and oceanographic missions. It provides detailed metadata for each dataset to help users make informed choices based on their scientific or operational needs.
+
+## How to Explore the Catalog
+
+1. **Access the Catalog**  
+   From the [MOSDAC portal](https://mosdac.gov.in), select **"Catalog"** and then **"Satellite Data"** or **"Data Products"** from the top navigation menu.
+
+2. **Browse and Filter Options**  
+   Use filters to browse by:
+   - Satellite Mission (e.g., INSAT-3DR, SCATSAT-1)
+   - Instrument (e.g., Imager, Sounder, Scatterometer)
+   - Data Type or Parameter
+   - Spatial/Temporal Coverage
+
+3. **View Product Details**  
+   Click on a product name to open a detailed metadata page describing its specifications, scientific basis, and download options.
+
+## Key Metadata Provided for Each Product
+
+### Product Name / Identifier
+
+- A unique name or short code identifying the dataset.
+
+### Abstract / Description
+
+- A brief summary describing what the dataset measures and its intended scientific or practical applications.
+
+### Satellite & Instrument Source
+
+- Information about the satellite mission and specific instrument used to acquire the data.
+
+### Data Processing Level
+
+- Indicates how raw the data is:
+  - **Level-0**: Raw sensor output
+  - **Level-1**: Calibrated, geo-located sensor data
+  - **Level-2**: Geophysical variables at the same resolution as the instrument
+  - **Level-3/4**: Gridded, time-averaged, or model-assimilated products
+
+### Spatial Coverage
+
+- Geographical extent of the dataset (e.g., Global, Indian Ocean region, Indian subcontinent).
+
+### Temporal Coverage
+
+- Start and end dates for data availability.
+
+### Temporal Resolution / Frequency
+
+- Frequency at which data is acquired or updated (e.g., 10-minute, hourly, daily, weekly).
+
+### Spatial Resolution
+
+- Ground pixel size (e.g., 1 km, 360 m, 25 km) indicating the level of detail.
+
+### Key Geophysical Parameters
+
+- List of variables measured (e.g., Sea Surface Temperature, Cloud Motion Vectors, Water Vapour, Aerosol Optical Depth).
+
+### Data Format
+
+- File format in which data is made available (e.g., HDF5, NetCDF, GeoTIFF, GRIB).
+
+### Documentation & Algorithms
+
+- Links to technical documentation such as:
+  - Product User Guides
+  - Algorithm Theoretical Basis Documents (ATBDs)
+  - Validation Reports
+  - Related Research Publications
+
+### Data Latency (For Near Real-Time Products)
+
+- Indicates how soon after acquisition the data becomes available to users.
+
+## Summary
+
+With its structured layout and rich metadata, the MOSDAC Satellite Data Catalog empowers users to quickly assess data availability, understand the nature of each dataset, and select the most suitable products for their research, forecasting, monitoring, or educational use.

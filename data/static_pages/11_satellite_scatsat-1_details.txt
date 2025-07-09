@@ -1,0 +1,68 @@
+# SCATSAT-1: Dedicated Ocean Wind Vector Mission
+
+## Mission Overview
+
+SCATSAT-1 (Scatterometer Satellite-1) is a dedicated Indian oceanographic satellite launched by ISRO to ensure the continuity of ocean surface wind vector data following the failure of the OSCAT sensor onboard Oceansat-2. It plays a critical role in global weather forecasting, tropical cyclone monitoring, and ocean-atmosphere interaction research.
+
+Designed as a gap-filler mission, SCATSAT-1 has proven indispensable for operational and research communities relying on high-quality, near-real-time ocean wind data.
+
+---
+
+## Launch and Orbital Details
+
+- **Launch Date:** September 26, 2016  
+- **Launch Vehicle:** PSLV-C35 (Polar Satellite Launch Vehicle)  
+- **Launch Site:** SDSC SHAR, Sriharikota (First Launch Pad)  
+- **Orbit Type:** Sun-Synchronous Polar Orbit (SSPO)  
+- **Orbital Altitude:** ~720 km  
+- **Mission Life:** 5 years (designed)  
+- **Launch Mass:** 371 kg (mini-satellite class)
+
+> Note: PSLV-C35 was ISRO's first mission to deploy satellites into multiple orbits using a multi-burn strategy, with SCATSAT-1 as the primary payload.
+
+---
+
+## Primary Payload: Ku-band Scatterometer
+
+SCATSAT-1 is equipped with a single scientific payload—a **Ku-band Scatterometer**, modeled closely on the OSCAT instrument from Oceansat-2.
+
+### Key Features
+
+- **Function:** Active microwave radar sensor  
+- **Working Principle:** Emits microwave pulses toward the ocean surface and measures the backscatter signal. Surface wind causes ocean roughness, which alters backscatter characteristics. By collecting data from multiple angles, both wind speed and direction can be retrieved.  
+- **Frequency Band:** Ku-band  
+- **Swath Width:** Wide coverage for near-global wind measurements every two days  
+
+---
+
+## Applications
+
+The data from SCATSAT-1 supports a broad spectrum of operational and scientific domains:
+
+- **Numerical Weather Prediction (NWP):**
+  - Supplies real-time wind vector data over oceans, enhancing forecast model initialization, especially in data-sparse regions.
+  
+- **Tropical Cyclone Monitoring:**
+  - Enables detection, intensity analysis, and tracking of tropical cyclones over the ocean, supporting disaster risk mitigation.
+
+- **Monsoon Forecasting:**
+  - Provides wind data over the Arabian Sea and Bay of Bengal, aiding in predicting monsoon onset, withdrawal, and variability.
+
+- **Ocean State Modeling:**
+  - Improves ocean wave, current, and storm surge forecasting, supporting maritime navigation and offshore operations.
+
+- **Climate Research:**
+  - Contributes to long-term datasets essential for monitoring wind climatology, sea-air interactions, and global circulation studies.
+
+---
+
+## Objectives and Contributions
+
+SCATSAT-1 was launched with the following primary objectives:
+
+- Maintain continuous global ocean surface wind vector observations  
+- Improve the accuracy of short- and medium-range weather predictions  
+- Support cyclone warning systems and maritime safety  
+- Assist national and international efforts in climate monitoring and research  
+
+SCATSAT-1 has successfully bridged the gap in global scatterometer data and strengthened India’s role in providing reliable ocean wind measurements to the global meteorological and oceanographic community.

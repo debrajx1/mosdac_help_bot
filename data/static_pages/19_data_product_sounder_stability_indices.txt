@@ -1,0 +1,73 @@
+# Sounder Data Products: Atmospheric Stability Indices
+
+In addition to providing vertical temperature and humidity profiles, Sounder payloads onboard INSAT-3D and INSAT-3DR satellites enable the derivation of key atmospheric stability indices. These indices are essential for assessing the potential for convection, thunderstorm development, and other severe weather phenomena.
+
+## 1. Lifted Index (LI)
+
+### Description
+The Lifted Index quantifies atmospheric stability by hypothetically lifting a parcel of air from the surface (or a low level) to a standard pressure level (e.g., 500 hPa) and comparing the parcel’s temperature with the surrounding environment.
+
+### Interpretation
+- **Negative LI:** Unstable atmosphere; the parcel is warmer than its environment and continues rising—favorable for thunderstorm formation.
+- **Positive LI:** Stable atmosphere; the parcel is cooler and sinks—convection is suppressed.
+
+### Applications
+- Thunderstorm forecasting
+- Convective outlooks for severe weather
+- Aviation weather assessments
+
+---
+
+## 2. K-Index (KI)
+
+### Description
+The K-Index combines information about temperature lapse rate and moisture availability in the lower and mid-troposphere. It is calculated using temperature and dew point data from 850 hPa, 700 hPa, and 500 hPa levels.
+
+### Interpretation
+Higher KI values imply a greater likelihood of air mass thunderstorm development, especially in non-frontal environments.
+
+### Applications
+- Identifying potential for widespread convection
+- Operational severe weather forecasting
+
+---
+
+## 3. Convective Available Potential Energy (CAPE)
+
+### Description
+CAPE quantifies the buoyant energy available to an air parcel lifted from the surface to the equilibrium level (EL). It is calculated as the integral of positive buoyancy between the level of free convection (LFC) and EL.
+
+### Interpretation
+- **High CAPE:** Strong instability, greater chance for severe convection, including large hail and tornadoes.
+- **Low CAPE:** Weak convective potential.
+
+### Applications
+- Severe thunderstorm prediction
+- Estimating updraft strength in mesoscale models
+- High-impact weather warnings
+
+---
+
+## 4. Dry Microburst Index
+
+### Description
+This index evaluates the potential for dry microbursts—powerful downdrafts in dry atmospheric layers. It uses humidity and temperature profiles to assess evaporative cooling potential.
+
+### Applications
+- Aviation safety, especially during takeoff and landing
+- Forecasting wind shear and surface gust hazards in arid zones
+
+---
+
+## 5. Maximum Vertical Theta-E Differential
+
+### Description
+Theta-E (Equivalent Potential Temperature) is a measure of temperature and moisture content. A large negative vertical gradient in Theta-E indicates atmospheric instability.
+
+### Applications
+- Identifying conditions favorable for deep convection
+- Supplementing CAPE-based analysis for severe weather diagnosis
+
+---
+
+These derived indices from geostationary sounder data provide forecasters with real-time insight into the thermodynamic state of the atmosphere, enabling more accurate and timely warnings for convective storms and hazardous weather.

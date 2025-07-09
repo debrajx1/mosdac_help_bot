@@ -1,0 +1,48 @@
+# INSAT-3C: A Communication Satellite with a Meteorological Imager
+
+## Mission Overview
+
+INSAT-3C was a multi-role geostationary satellite launched under the Indian National Satellite (INSAT) series. While primarily focused on communication, broadcasting, and telecommunication services, it was also equipped with a meteorological imager to support India's weather observation capabilities. The satellite’s meteorological data was archived by MOSDAC and used in operational weather analysis.
+
+---
+
+## Launch and Orbital Characteristics
+
+- **Launch Date:** January 24, 2002  
+- **Launch Vehicle:** Ariane 4 (operated by Arianespace)  
+- **Launch Site:** Guiana Space Centre, Kourou, French Guiana  
+- **Orbit Type:** Geostationary Orbit (GSO)  
+- **Orbital Slot:** Positioned at 74°E longitude over the equator  
+- **Mission Life:** Designed for a 12-year operational lifespan
+
+---
+
+## Meteorological Payload
+
+### Very High Resolution Radiometer (VHRR)
+
+- **Function:**  
+  A three-band radiometer for meteorological imaging, similar to those on Kalpana-1 and INSAT-3A.
+
+- **Spectral Channels:**
+  - **Visible:** 0.55–0.75 µm  
+  - **Thermal Infrared (TIR):** 10.5–12.5 µm  
+  - **Water Vapour (WV):** 5.7–7.1 µm
+
+- **Applications:**
+  - Cloud pattern and motion tracking
+  - Sea Surface Temperature (SST) estimation
+  - Atmospheric water vapor profiling
+  - Synoptic weather forecasting and regional weather monitoring
+
+---
+
+## Contributions
+
+INSAT-3C played a supplementary role in India's space-based meteorological efforts. Though primarily a communication satellite, its VHRR instrument provided:
+
+- Continuous cloud imagery and thermal data for operational weather monitoring
+- Meteorological inputs that were archived and disseminated via MOSDAC
+- Complementary observations to support the growing network of INSAT meteorological satellites
+
+INSAT-3C helped maintain continuity of weather data and strengthened India’s integrated approach to satellite-based communication and meteorology.

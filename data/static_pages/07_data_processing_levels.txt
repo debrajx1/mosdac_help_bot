@@ -1,0 +1,63 @@
+# MOSDAC Data Processing Levels
+
+## Overview
+
+Satellite data undergoes a series of processing stages before it becomes usable for scientific or operational applications. MOSDAC classifies its data products based on standardized **processing levels**, which reflect the degree of transformation applied to the raw sensor output. Understanding these levels helps users select datasets appropriate to their analytical needs.
+
+## Level-0 Data (Raw Data)
+
+- **Description:**  
+  Level-0 data represents the rawest form of satellite telemetry. It consists of instrument counts and binary streams directly reconstructed from the satellite downlink. These data are time-referenced but lack calibration, geolocation, or scientific interpretation.
+
+- **Use Cases:**  
+  Primarily used by instrument engineers and calibration experts. Rarely distributed to general users.
+
+## Level-1 Data (Calibrated and Georeferenced)
+
+- **Description:**  
+  These products are derived from Level-0 data through radiometric and geometric corrections. Radiometric calibration converts raw counts into physical units (e.g., radiance or brightness temperature), while geometric corrections assign accurate spatial coordinates.
+
+- **Common Sublevels:**  
+  - **Level-1A:** Brightness temperature, geo-tagged in scan mode.  
+  - **Level-1B:** Brightness temperature in grid mode, often orbit-wise.  
+  - **Level-1C:** Geo-tagged and co-located brightness temperature product.
+
+- **Use Cases:**  
+  Useful for researchers requiring calibrated data inputs for their own geophysical algorithms or models.
+
+## Level-2 Data (Geophysical Parameters)
+
+- **Description:**  
+  Level-2 data contains geophysical variables directly derived from Level-1 products. These include scientifically meaningful quantities related to the atmosphere, land, or ocean.
+
+- **Examples:**  
+  Sea Surface Temperature (SST), Chlorophyll-a, atmospheric profiles (temperature and humidity), wind vectors, aerosol optical depth.
+
+- **Use Cases:**  
+  Widely used in meteorology, oceanography, and environmental monitoring.
+
+## Level-3 Data (Gridded and Composited Products)
+
+- **Description:**  
+  These products result from spatial and temporal aggregation of Level-2 data. They are projected onto regular grids and may involve compositing, averaging, or interpolation over time and space.
+
+- **Examples:**  
+  Daily SST maps, monthly chlorophyll composites, gridded rainfall datasets.
+
+- **Use Cases:**  
+  Suitable for climate analysis, regional modeling, and temporal trend studies.
+
+## Level-4 Data (Model-Derived or Synthesized Products)
+
+- **Description:**  
+  Level-4 products are generated using models, assimilation techniques, or fusion of multiple datasets (satellite and in-situ). These provide the highest level of data synthesis.
+
+- **Examples:**  
+  Reanalysis datasets, modeled ocean current fields, wind vector synthesis.
+
+- **Use Cases:**  
+  Climate modeling, predictive analytics, and advanced scientific research requiring harmonized multi-source data.
+
+## Summary
+
+Understanding these processing levels is crucial for selecting the right dataset for your application—whether you're conducting basic visualization, atmospheric modeling, or advanced geophysical research. MOSDAC provides products at all these levels depending on the mission, sensor, and user access tier.
