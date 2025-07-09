@@ -1,0 +1,1 @@
+mistral-7b-instruct-v0.1.Q4_K_M.gguf - This model is required to run this chatbot.

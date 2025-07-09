@@ -57,12 +57,12 @@ st.markdown("""
 
 # === Sidebar ===
 with st.sidebar:
-    st.image("assets/isro_mosdac_logo.png", width=200)
+    st.image("assets/isro.jpg", width=200)
     st.markdown("### 🔎 About the Help Bot")
     st.markdown(
-        "This AI-powered assistant helps users explore satellite missions, meteorological datasets, and documentation archived at [MOSDAC](https://mosdac.gov.in). Powered by semantic search and Sentence-BERT."
+        "AI assistant for exploring MOSDAC satellite data and documents using semantic search and embeddings."
     )
-    st.markdown("🛰️ Developed for ISRO Hackathon 2025")
+    st.markdown("🛰️ Developed for BAH 2025")
 
 st.title("🛰️ ISRO-MOSDAC AI Help Bot")
 st.markdown("Ask questions related to Indian satellite missions, data products, or MOSDAC documentation.")
@@ -79,19 +79,13 @@ if query:
     if results:
         st.markdown("### 📚 Retrieved Sources")
         for idx, res in enumerate(results, 1):
-            with st.expander(f"📂 Result {idx}: {res['source']} → Section: {res['section']}"):
-                st.markdown(f"📘 **Source Type:** `{res['source_type']}`")
-                st.markdown(f"<div class='raw-extract'>📰 <b>Original Extract:</b><br>{res['text']}</div>", unsafe_allow_html=True)
+            st.markdown(f"📂 **Result {idx}:** {res['source']} → Section: {res['section']}")
+            st.markdown(f"📘 **Source Type:** `{res['source_type']}`")
+            st.markdown(f"<div class='raw-extract'>📰 <b>Original Extract:</b><br>{res['text']}</div>", unsafe_allow_html=True)
 
         context = "\n\n".join([res["text"] for res in results])
         prompt = f"Answer the following question using the given context.\n\nContext:\n{context}\n\nQuestion: {query}"
 
-        with st.spinner("🤖 Generating LLM-enhanced answer..."):
-            llm_response = generate_response(prompt)
-        st.success("✅ Answer generated.")
-
-        st.markdown("### 🤖 LLM-enhanced Answer")
-        st.markdown(f"<div class='llm-answer'>💡 {llm_response}</div>", unsafe_allow_html=True)
     else:
         st.warning("🚫 No relevant information found.")
         logging.warning("No result found for query.")
